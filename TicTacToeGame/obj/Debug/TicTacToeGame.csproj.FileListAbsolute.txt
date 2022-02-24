@@ -1,0 +1,7 @@
+C:\Users\Anusha.Lakavath\source\repos\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\Anusha.Lakavath\source\repos\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\Anusha.Lakavath\source\repos\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\Anusha.Lakavath\source\repos\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\Anusha.Lakavath\source\repos\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\Anusha.Lakavath\source\repos\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\Anusha.Lakavath\source\repos\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
